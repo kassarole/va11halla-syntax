@@ -3,13 +3,12 @@
   "theme": "syntax",
   "version": "0.0.0",
   "description": "Syntax and UI theme for va11halla",
-  "repository":"https://github.com/kevroded/va11halla-syntax",
   "keywords": [
     "syntax",
     "ui",
     "theme"
   ],
-  "repository": "https://github.com/atom/test-syntax",
+  "repository": "https://github.com/kevroded/va11halla-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
