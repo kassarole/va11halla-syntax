@@ -1,7 +1,7 @@
 {
   "name": "va11halla-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Syntax and UI theme for va11halla",
   "keywords": [
     "syntax",
