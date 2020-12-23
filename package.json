@@ -19,7 +19,7 @@
   "_resolved": "https://www.atom.io/api/packages/va11halla-syntax/versions/0.1.0/tarball",
   "_shasum": "5c8fdef5cc863533e02f7311c1042f457bf460b7",
   "_spec": "https://www.atom.io/api/packages/va11halla-syntax/versions/0.1.0/tarball",
-  "_where": "C:\\Users\\Kevin\\AppData\\Local\\Temp\\apm-install-dir-2020615-36140-1xm8bhw.vxc3",
+  "_where": "C:\\Users\\kevro\\AppData\\Local\\Temp\\apm-install-dir-20201123-10068-1hw26db.b6v7",
   "bugs": {
     "url": "https://github.com/kevroded/va11halla-syntax/issues"
   },
@@ -42,5 +42,5 @@
     "url": "git+https://github.com/kevroded/va11halla-syntax.git"
   },
   "theme": "syntax",
-  "version": "0.2.0"
+  "version": "0.1.0"
 }
