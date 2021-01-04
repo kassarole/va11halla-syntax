@@ -42,5 +42,5 @@
     "url": "git+https://github.com/kevroded/va11halla-syntax.git"
   },
   "theme": "syntax",
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
